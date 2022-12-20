@@ -5,9 +5,10 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "08aebe10c20f9d0724bc5da5ea1610f4",
 "favicon.ico": "29e224d7c5e973b2ca481c8874b566ae",
-"index.html": "b48612e31ed74d702cece42298529282",
-"/": "b48612e31ed74d702cece42298529282",
+"index.html": "d3c61a5998ef8000bfc42655a8ab6c84",
+"/": "d3c61a5998ef8000bfc42655a8ab6c84",
 "main.dart.js": "09c4a2ddbd165271f8ef318a5cf3a787",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
@@ -26,7 +27,11 @@ const RESOURCES = {
 "assets/assets/fonts/NotoSansJP-Light.otf": "137761c9e4b05edc375b06c256e9b65a",
 "assets/assets/fonts/NotoSansJP-Thin.otf": "e2b92248795c0cd02d9858aaf2a12ec2",
 "assets/assets/fonts/NotoSansJP-Bold.otf": "e463c4b3a2d7fbfb917831767da8c24f",
-"assets/assets/fonts/NotoSansJP-Black.otf": "5ce4631ec833cd0011936d5653fbd144"
+"assets/assets/fonts/NotoSansJP-Black.otf": "5ce4631ec833cd0011936d5653fbd144",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
